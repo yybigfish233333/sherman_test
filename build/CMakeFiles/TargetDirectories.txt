@@ -1,0 +1,6 @@
+/users/bigfish/Sherman/build/CMakeFiles/rebuild_cache.dir
+/users/bigfish/Sherman/build/CMakeFiles/tree_test.dir
+/users/bigfish/Sherman/build/CMakeFiles/edit_cache.dir
+/users/bigfish/Sherman/build/CMakeFiles/skiplist_test.dir
+/users/bigfish/Sherman/build/CMakeFiles/sherman.dir
+/users/bigfish/Sherman/build/CMakeFiles/benchmark.dir

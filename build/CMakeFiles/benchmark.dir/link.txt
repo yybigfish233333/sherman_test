@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wno-deprecated-declarations -Wsign-compare -O3 -g -std=c++11  -rdynamic CMakeFiles/benchmark.dir/test/benchmark.cpp.o  -o benchmark libsherman.a -lcityhash -lboost_system -lboost_coroutine -lpthread -libverbs -lmemcached 
